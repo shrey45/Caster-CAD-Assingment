@@ -19,6 +19,8 @@ I created the Mount. All I had to do was make a rectangle, make some extrusions,
 
 I used the linear pattern feature for the first time. It was very simple. I also was learning how to use the "Use" feature for the next part. I made a mistake because I was using a part pattern instead of a feature pattern while using the linear pattern. I discussed with my teacher and got that fixed.
 
+---
+
 ## Mount
 
 ### Description
@@ -35,6 +37,8 @@ I created the Mount. It was the same as the base, but I didn't have do do much b
 ### Reflection
 
 I got to test out and use the "Use" tool for the first time. I messed up because I accidentally used the entire sketch instead of just the holes. The hole thing got duplicated but I changed that after.
+
+---
 
 ## Fork
 
@@ -54,6 +58,8 @@ The Fork was very simple to create. It was just extruding circles and rectangles
 
 I started using the fillet tool. i had to use Google to see the fillet feature and the chamfer feature to know the difference, but I didn't make any errors.
 
+---
+
 ## Tire
 
 ### Description
@@ -70,7 +76,9 @@ The Tire was the simplest part to create so far. I just had to make a small sket
 
 ### Reflection
 
-I changed the apperence for the first time. I had to use the OnShape forum to find where to change the color by using[This Link](https://forum.onshape.com/discussion/5/id-like-to-be-able-to-change-the-color-of-parts-in-my-model).
+I changed the apperence for the first time. I had to use the OnShape forum to find where to change the color by using [This Link](https://forum.onshape.com/discussion/5/id-like-to-be-able-to-change-the-color-of-parts-in-my-model).
+
+---
 
 ## Wheel
 
@@ -89,3 +97,7 @@ The Wheel was probably the most complicated part to make out of all the others, 
 ### Reflection
 
 I did have some initial difficulty in creating the first sketch because I accidentally skipped a step, but I solved that problem quickly. After revolving the sketch, I had to sketch/extrude again to create the spoke and I used a pattern to duplicated that. Next time while making a bit complex part, I have to make sure to follow the steps carefully.
+
+---
+
+
