@@ -1,7 +1,7 @@
 # Basic CAD
 
 
-## I created the Caster Base and Mount in Onshape
+## Base
 
 ### Description
 
@@ -11,7 +11,7 @@ While creating the Mount and the Base, I was able to test out and execute the "U
 
 [Click This link to view Caster Base + Mount](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/022da94a1ce20d239f99b214)
 
-## I created the Mount with the Base
+## Mount
 
 ### Description
 
@@ -21,7 +21,7 @@ While creating the Mount and the Base, I was able to test out and execute the "U
 
 [Click This link to view Caster Base + Mount](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/022da94a1ce20d239f99b214)
 
-## I created the Fork
+## Fork
 
 ### Description
 
@@ -31,7 +31,7 @@ The Fork was very simple to create. It was just extruding circles and rectangles
 
 [Click This link to view Fork](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/2ca0eab6df75f58b86dc4f2d)
 
-## I created the Tire
+## Tire
 
 ### Description
 
@@ -41,7 +41,7 @@ The Tire was the simplest part to create so far. I just had to make a small sket
 
 [Click This link to view Tire](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/ed003e8ebd534ca374608d4f)
 
-## I created the Wheel
+## Wheel
 
 ### Description
 
