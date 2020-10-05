@@ -113,11 +113,11 @@ There were a couple steps to making this part. I had to make a couple extrusions
 
 ### Link
 
-- [Click This link to view Axle & Collar](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/4bafecd75b9ce972ced17838)
+- [Click This link to view Axle & Collar] (https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/4bafecd75b9ce972ced17838)
 
-- [Click This link to view Wheel Bearing](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/7533e7b0779816ec0754e851)
+- [Click This link to view Wheel Bearing] (https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/7533e7b0779816ec0754e851)
 
-- [Click This link to view Big Bearing](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/75e5ef3c5b2f61d17ed3cd15)
+- [Click This link to view Big Bearing] (https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/75e5ef3c5b2f61d17ed3cd15)
 
 ### Reflection
 
