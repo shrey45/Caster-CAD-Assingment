@@ -101,4 +101,22 @@ I did have some initial difficulty in creating the first sketch because I accide
 
 ---
 
+## Axle/Collar/Bearings
+
+### Description
+
+There were a couple steps to making this part. I had to make a couple extrusions, and I had to make a few extra sketches. After I finished the Axel & Collar, I also added a small bearing to my Wheel, and I made a new Part - Big Bearing. (See 3 pictures respectively)
+
+### Image 
+
+<img src="Caster-Images/Axle-Collar.png" alt="Axle-Collar" width="110" height="110"> <img src="Caster-Images/WheelBearing.png" alt="WheelBearing" width="110" height="110"> <img src="Caster-Images/BigBearing.png" alt="BigBearing" width="110" height="110">
+
+### Link
+
+[Click This link to view Axle & Collar](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/4bafecd75b9ce972ced17838)[Click This link to view Wheel Bearing](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/7533e7b0779816ec0754e851)[Click This link to view Big Bearing](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/75e5ef3c5b2f61d17ed3cd15)
+
+### Reflection
+
+While creating the Axle & Collar, I had to use some new features. To create the screw hole I had to center the hole sketch by using the Midpoint constraint. I did have a bit of difficulty while extruding the hole because I was pressing the wrong sketch. I was able to practice using the "Use" tool again, and I feel confident in "Using" that feature:) The big bearing was too easy. Just 2 circles and an extrusion.
+
 
