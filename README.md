@@ -123,4 +123,22 @@ There were a couple steps to making this part. I had to make a couple extrusions
 
 While creating the Axle & Collar, I had to use some new features. To create the screw hole I had to center the hole sketch by using the Midpoint constraint. I did have a bit of difficulty while extruding the hole because I was pressing the wrong sketch. I was able to practice using the "Use" tool again, and I feel confident in "Using" that feature:) The big bearing was too easy. Just 2 circles and an extrusion.
 
+---
 
+## Caster Assembly
+
+### Description
+
+In this assignment I put together all the parts I previously made. I had to use mates to put together all my parts. It was very easy. After I put together all the parts, I had to add in some screws and bolts in the holes I made and then I was done. **Caster Completed**
+
+### Image
+
+<img src="Caster-Images/Caster-Assembly.png" alt="Caster-Assembly" width="110" height="110">
+
+### Link
+
+[Click This link to view Caster Assembly](https://cvilleschools.onshape.com/documents/30f599c68d1a623d378a571f/w/de6902057127ae29103d8afc/e/9a5ce7a0eb51a89c98335ecb)
+
+### Reflection
+
+The assembly was fairly simple. I was watching the video that Dr.Shields made t know where each part goes. I had a little bit of trouble in inserting the screws, but I re-watched the video a couple times and I got it done. I had to work a bit differently than in the video while adding the pin to hold the axle, but after a few trial and error runs, I gt it. Instead of selecting the face of the axle flat part, I just selected the edge and then I made an offset for it to not poke out.
