@@ -10,7 +10,7 @@ I created the Mount. All I had to do was make a rectangle, make some extrusions,
 
 ### Image
 
-<img src="Caster-Images/Base-Mount.png" alt="Base-Mount" width="110" height="110">
+<img src="Caster-Images/Base-Mount.png" alt="Base-Mount" width="130" height="130">
 
 ### Link
 
@@ -29,7 +29,7 @@ I used the linear pattern feature for the first time. It was very simple. I also
 I created the Mount. It was the same as the base, but I didn't have do do much because I transfered all the dimensions from the Base using the "Use" tool.
 ### Image
 
-<img src="Caster-Images/Base-Mount.png" alt="Base-Mount" width="110" height="110">
+<img src="Caster-Images/Base-Mount.png" alt="Base-Mount" width="130" height="130">
 
 ### Link
 
@@ -49,7 +49,7 @@ The Fork was very simple to create. It was just extruding circles and rectangles
 
 ### Image
 
-<img src="Caster-Images/Fork.png" alt="Fork" width="110" height="110">
+<img src="Caster-Images/Fork.png" alt="Fork" width="130" height="130">
 
 ### Link
 
@@ -69,7 +69,7 @@ The Tire was the simplest part to create so far. I just had to make a small sket
 
 ### Image
 
-<img src="Caster-Images/Tire.png" alt="Tire" width="110" height="110">
+<img src="Caster-Images/Tire.png" alt="Tire" width="130" height="130">
 
 ### Link
 
@@ -89,7 +89,7 @@ The Wheel was probably the most complicated part to make out of all the others, 
 
 ### Image
 
-<img src="Caster-Images/Wheel.png" alt="Wheel" width="110" height="110">
+<img src="Caster-Images/Wheel.png" alt="Wheel" width="130" height="130">
 
 ### Link
 
@@ -109,7 +109,7 @@ There were a couple steps to making this part. I had to make a couple extrusions
 
 ### Image 
 
-<img src="Caster-Images/Axle-Collar.png" alt="Axle-Collar" width="110" height="110"> <img src="Caster-Images/WheelBearing.png" alt="WheelBearing" width="110" height="110"> <img src="Caster-Images/BigBearing.png" alt="BigBearing" width="110" height="110">
+<img src="Caster-Images/Axle-Collar.png" alt="Axle-Collar" width="130" height="130"> <img src="Caster-Images/WheelBearing.png" alt="WheelBearing" width="130" height="130"> <img src="Caster-Images/BigBearing.png" alt="BigBearing" width="130" height="130">
 
 ### Link
 
@@ -133,7 +133,7 @@ In this assignment I put together all the parts I previously made. I had to use 
 
 ### Image
 
-<img src="Caster-Images/Caster-Assembly.png" alt="Caster-Assembly" width="110" height="110">
+<img src="Caster-Images/Caster-Assembly.png" alt="Caster-Assembly" width="130" height="130">
 
 ### Link
 
