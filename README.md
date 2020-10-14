@@ -2,6 +2,19 @@
 
 Making the Caster in OnShape
 
+---
+
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [Axle/Collar/Bearings](#Axle/Collar/Bearings)
+* [Caster Assembly](Caster-Assembly)
+
+
 ## Base
 
 ### Description
