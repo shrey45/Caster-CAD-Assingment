@@ -11,7 +11,7 @@ Making the Caster in OnShape
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [Axle/Collar/Bearings](#Axle/Collar/Bearings)
+* [Axle/Collar/Bearings](#Axle-Collar-Bearings)
 * [Caster Assembly](Caster-Assembly)
 
 
@@ -114,7 +114,7 @@ I did have some initial difficulty in creating the first sketch because I accide
 
 ---
 
-## Axle/Collar/Bearings
+## Axle-Collar-Bearings
 
 ### Description
 
