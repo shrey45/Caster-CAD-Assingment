@@ -13,7 +13,7 @@ Making the Caster in OnShape
 * [Wheel](#Wheel)
 * [Axle/Collar/Bearings](#Axle-Collar-Bearings)
 * [Caster Assembly](Caster-Assembly)
-* [Dorothy's Dowel Pins and Picture Frame(Extra)](#Dorothy's-Dowel-Pins-and-Picture-Frame-(Extra))
+* [Dorothy's Dowel Pins and Picture Frame(Extra)](#Dorothy's-Dowel-Pins-and-Picture-Frame(Extra))
 
 
 ## Base
