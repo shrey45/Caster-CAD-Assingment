@@ -155,3 +155,15 @@ In this assignment I put together all the parts I previously made. I had to use 
 ### Reflection
 
 The assembly was fairly simple. I was watching the video that Dr.Shields made t know where each part goes. I had a little bit of trouble in inserting the screws, but I re-watched the video a couple times and I got it done. I had to work a bit differently than in the video while adding the pin to hold the axle, but after a few trial and error runs, I gt it. Instead of selecting the face of the axle flat part, I just selected the edge and then I made an offset for it to not poke out.
+
+---
+
+## Dorothy's Dowel Pins and Picture Frame(Extra)
+
+### Description
+
+For this extra assignment I was creating Dowel Pins and a Picture Frame. Thanks to the videos, it was super simple to create. In this assignment we learned how to use configurations. We were suposed to make 16 different versions of pins, with different Lengths, Diameters, and Chamfers. Instead of making the same part so many times, we used a neat tool called Configurations. We were able to create List Configurations, and we could easily switch between our 16 different configurations. We then inserted them into an assembly alog with a picture frame. I quickly made a picture frame. It took like 2 minutes. I just sketched a trapezoid, put some random dimensions(it doesn't matter how big it is) and made 2 holes. It was simple.
+
+### Image
+
+
