@@ -21,7 +21,7 @@ Making the Caster in OnShape
 
 ### Description
 
-I created the Mount. All I had to do was make a rectangle, make some extrusions, and used a linear pattern.
+I created the Mount. All I had to do was make a rectangle(200x120mm), make an extrusion(8mm), and used a linear pattern to duplicate a circle(10mm diameter, 6 circles - 80mm apart).
 
 ### Image
 
@@ -60,7 +60,7 @@ I got to test out and use the "Use" tool for the first time. I messed up because
 
 ### Description
 
-The Fork was very simple to create. It was just extruding circles and rectangles, and at the end I filleted a lot of it so it looked really nice and had those rounded edges.
+The Fork was very simple to create. I made a circle(80mm, extruded 8mm). On that circle I made a rectangle(40x15mm) and mirrored it over to the other side. Then, on the bottom of the big circle, 2 circles(15 and 20mm diameters,) and I extruded the space between them(60mm). I added some fillets around all the edges for it to look better.
 
 ### Image
 
@@ -72,7 +72,7 @@ The Fork was very simple to create. It was just extruding circles and rectangles
 
 ### Reflection
 
-I started using the fillet tool. i had to use Google to see the fillet feature and the chamfer feature to know the difference, but I didn't make any errors.
+I started using the fillet tool. I had to use Google to see the fillet feature and the chamfer feature to know the difference, but I didn't make any errors.
 
 ---
 
@@ -80,7 +80,7 @@ I started using the fillet tool. i had to use Google to see the fillet feature a
 
 ### Description
 
-The Tire was the simplest part to create so far. I just had to make a small sketch, and revolve it. After that I included a fillet and I was done. There were only 3 steps to mae the Tire. I also just changed the apperance to a Grey color to make it look like a tire.
+The Tire was the simplest part to create so far. I made a trapezoid(20mm base and 10 degree angles at the bottom). I dimensioned it below the origin(80mm diameter from the base, and 110mm diameter from the top of the trap.). This is so that it would know how big the tire would be. I then revolved it and changes the colr to gray to make it look more like a tire.
 
 ### Image
 
