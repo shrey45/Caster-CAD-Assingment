@@ -185,7 +185,7 @@ The videos made the assignment very easy, and I think that I am doig well. At th
 
 ### Image(GIF)
 
-<img src="Caster-Images/Extra Credit - Universal Joint _ Assembly 1.gif" alt="Extra Credit - Universal Joint _ Assembly 1" width="400" height="400">
+<img src="Caster-Images/Extra Credit - Universal Joint _ Assembly 1.gif" alt="Extra Credit - Universal Joint _ Assembly 1" width="600" height="400">
 
 ### Link
 
