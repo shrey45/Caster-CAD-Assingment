@@ -159,6 +159,8 @@ The assembly was fairly simple. I was watching the video that Dr.Shields made t 
 
 ---
 
+## Extra Credit CAD Assignents
+
 ---
 
 ## Dorothys Dowel Pins and Picture Frame
@@ -182,6 +184,10 @@ The videos made the assignment very easy, and I think that I am doig well. At th
 ## Universal Joint
 
 ### Description
+
+**Shaft** - I used a cylinder 30mm
+
+**Bracket** I created the Universal Joint. To make it, make a couple lines in a sketch - 50, 110, 30, 50mm. Make these lines to form the shape of the Bracket(blue).The I made a surface extrude and then used to the thicken feature for 5 mm. 
 
 ### Image(GIF)
 
