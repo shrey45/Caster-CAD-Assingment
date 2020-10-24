@@ -181,18 +181,26 @@ For this extra assignment I was creating Dowel Pins and a Picture Frame. Thanks 
 
 The videos made the assignment very easy, and I think that I am doig well. At the beginning of the CAD assignments, I was pretty good with Onshape as I had used it a bit before, but now I am 110% confident in using it.The frame tested my Onshape skills, and I was able to make it easily on my own. I messed up the configurations a bit in the beginning, because I had no idea how to use it, but after re-watching the videos I got it done. The assembly also got messed up a few times because I clicked on a few incorrect mate connectors, so I slowed down and tried to click them more carefully.
 
+---
+
 ## Universal Joint
 
 ### Description
 
-**Shaft** - I used a cylinder 30mm
+**Cube Thingy** - A 20x20x20mm cube, with 8mm diameter cylinders, 10mm long. I used a linear pattern to put it on 4 faces of the cube.
+
+**Shaft** - I used a cylinder 30mm, and then extruded it 50mm. I cut out a rectangle to make it like the fork in the Caster CAD assignment(30x20mm). Then 2 rectangles from the sides to make it thinner(30x5mm). I used Fillets on the edges and a centered hole on each side(8mm diameter, and 10mm from the top)
 
 **Bracket** I created the Universal Joint. To make it, make a couple lines in a sketch - 50, 110, 30, 50mm. Make these lines to form the shape of the Bracket(blue).The I made a surface extrude and then used to the thicken feature for 5 mm. 
+
+I then used cylindrical mates to fix the shafts to the brackets, and revolute mates to fix the cube into the holes on the shaft.
 
 ### Image(GIF)
 
 <img src="Caster-Images/Extra Credit - Universal Joint _ Assembly 1.gif" alt="Extra Credit - Universal Joint _ Assembly 1" width="600" height="400">
 
 ### Link
+
+[Click This link to view Universal Joint](https://cvilleschools.onshape.com/documents/ec7dd98bbc2fd338348246ba/w/4f3f86c3afe79ff1caf7f377/e/a1e8db3716d5a0196408b2fe)
 
 
