@@ -120,7 +120,16 @@ I did have some initial difficulty in creating the first sketch because I accide
 
 ### Description
 
-There were a couple steps to making this part. I had to make a couple extrusions, and I had to make a few extra sketches. After I finished the Axel & Collar, I also added a small bearing to my Wheel, and I made a new Part - Big Bearing. (See 3 pictures respectively)
+There were a couple steps to making this part. I had to make a couple extrusions, and I had to make a few extra sketches.
+
+The Axle is a hollow pipe(60mm long, 10mm outer circle,6mm inner circle). There is a cut(10mm) 4.5mm above the origin on the face of Axle extrude.
+
+The collar is a cylinder (10mm long, outer diameter of 15mm, inner diameter of 10mm with a 3mm hole).
+
+The bearing is a cylinder(5mm long with an inner diameter of 10mm,outer diameter of 25mm).
+
+The big bearing is ANOTHER cylinder(5mm long with an inner diameter of 20mm,outer diameter of 30mm)
+After I finished the Axel & Collar, I also added a small bearing to my Wheel, and I made a new Part - Big Bearing. (See 3 pictures respectively)
 
 ### Image 
 
