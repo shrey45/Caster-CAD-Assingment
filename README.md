@@ -227,6 +227,8 @@ The dimensions that have to be shared are: The four rods have the same diameter 
 
 ### Image
 
+<img src="Caster-Images/Vaccum-Pump.png" alt="Vaccum-Pump" width="400" height="400"> 
+
 ### Link
 
 [Click This link to view Vaccum Pump](https://cvilleschools.onshape.com/documents/6d5b82e210c1006bfc033eaf/w/7b2a2d6c432a54f934f2d10f/e/da5bebc2444e6bc245c1e1ff)
