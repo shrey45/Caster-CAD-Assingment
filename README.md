@@ -236,6 +236,6 @@ The dimensions that have to be shared are: The four rods have the same diameter 
 
 ### Reflection
 
-
+The pump was simple. I think that since this was a collabaritive challenge, and we are online, that was probably the only difficulty, but it still went pretty smooth despite that. We communicated during our Zoom class in our breakout rooms, and we also used the Onshape comments feature to communicate outside of class. Using that, we could select others' parts and tell them dimensions/changes/mates needed to build it succesfully. It worked well as we worked together well.
 
 
