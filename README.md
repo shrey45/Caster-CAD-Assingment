@@ -15,6 +15,7 @@ Making the Caster in OnShape
 * [Caster Assembly](#Caster-Assembly)
 * [Dorothy's Dowel Pins and Picture Frame](#Dorothys-Dowel-Pins-and-Picture-Frame)
 * [Universal Joint](#Universal-Joint)
+* [Vaccum Pump](#Vaccum-Pump)
 
 
 ## Base
@@ -227,7 +228,7 @@ The dimensions that have to be shared are: The four rods have the same diameter 
 
 ### Image
 
-<img src="Caster-Images/Vaccum-Pump.png" alt="Vaccum-Pump" width="400" height="400"> 
+<img src="Caster-Images/Vaccum-Pump.png" alt="Vaccum-Pump" width="300" height="500"> 
 
 ### Link
 
